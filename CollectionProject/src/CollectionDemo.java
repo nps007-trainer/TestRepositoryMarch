@@ -30,6 +30,7 @@ public class CollectionDemo {
 		map1.put("Satej", 45);
 		map1.put("Avinash", 56);
 		map1.put("Pravin", 52);
+		map1.put("Rishabh",65);
 		
 		System.out.println(map1);
 	int marks=	getHigherMarks(map1);
